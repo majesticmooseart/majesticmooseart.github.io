@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Photo Album</title>
+</head>
+<body>
+
+<h1>Photo Album</h1>
+<p>Some froggy photo fun...</p>
+
+<h2>Relaxing on his day off</h2>
+<p>He likes to chill on his leaf sometimes</p>
+<img src="you_like_jazz.jpg" alt="Relax Frog">
+
+<h3>Pro Banjo Player</h3>
+<p>Lovin the banjo right now!</p>
+<img src="banjofrog.jpeg" alt="Banjo Sesh">
+
+<h4>Drop The Bass</h4>
+<p>Jazz frog bass solo.</p>
+<img src="basefrog.jpg" alt="Bass Frog">
+
+<p><a href="file:///C:/Users/Miguel/Desktop/Web%20Page/Index.html">Home</a></p> 
+</body>
+</html> 

@@ -11,7 +11,8 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 
-<body style="background-color:Black;">
+<body style="background-color:DimGrey;">
+
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top justify-content-center">
   <ul class="navbar-nav ">
   
@@ -33,16 +34,9 @@
   </ul>
 </nav>
 
-  <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 3em 0em 0em 0">Miguel Espinosa</h1>
+<h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 2em 0; ">MEME MASHUP</h1>
 
-	<p style="color:GhostWhite;font-size:40px; text-align: center; padding: 0 0em 10em 0;">Digital Artist/Animator</p>
-	
-<div class="jumbotron jumbotron-fluid text-center">
-  <div class="container">
-    <h1>About Miguel</h1>      
-    <p>Miguel is a University student studying Digital Media Art. Focusing on digital art and with a back ground in animiation, illustration, photography, and film making. His art largly centers around world building and or the exploration of the human imagination.</p>
-  </div>
-</div>
-
+<img class="mx-auto d-block" src="meme.png" class="mx-auto d-block" style="width:900px;height:700px; padding: 0 0em 2em 0" > 
+  
 </body>
 </html> 

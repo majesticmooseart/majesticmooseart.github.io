@@ -54,15 +54,16 @@ img {
 
 <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Stars Above </h1>
 
- <img src="stars.jpg" alt="Stars" width="128" height="700" style="width:50%;padding: 0em 0em 2em 0;">
+ <img src="stars.jpg" alt="Stars" style="width:50%;">
  
 <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Space Waves </h1>
 
- <img src="space.jpg" alt="Space" width="128" height="700" style="width:50%;padding: 0em 0em 2em 0;">
+ <img src="space.jpg" alt="Space" style="width:50%;">
  
 <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Galaxy Sounds </h1>
  
- <img src="galaxy.jpg" alt="Galaxy" width="128" height="700" style="width:50%;padding: 0em 0em 2em 0;">
+ <img src="galaxy.jpg" alt="Galaxy" style="width:50%;">
+ <h1 style="padding 1em 0em 2em 0;"></h1>
 
 </body>
 </html> 

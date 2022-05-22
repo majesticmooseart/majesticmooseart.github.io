@@ -66,13 +66,13 @@ img {
   </div>
 </div>
 <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Doughnut</h1>
-  <img src="nut.jpg" alt="Stars" style="width:50%;">
+  <img src="nut.jpg" alt="Stars" style="width:50%;" class="mx-auto d-block" >
  
  <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> ReModel</h1>
-<img src="remodel.jpg" alt="Stars" style="width:50%;">
+ <img src="remodel.jpg" style="width:50%;" class="mx-auto d-block"> 
 
  <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Environment</h1>
-<img src="gate.png" alt="Stars" style="width:50%;">
+<img src="gate.png" alt="Stars" style="width:50%;" class="mx-auto d-block">
 
 
 

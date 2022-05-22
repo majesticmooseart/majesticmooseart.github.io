@@ -62,7 +62,7 @@ img {
 <div class="jumbotron jumbotron-fluid text-center" style="background-color: #000000!important;">
   <div class="container">
  <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0em 0em 0em 0">BLENDER</h1>
-  <p style="color:GhostWhite; font-size:30px; text-align: center;">The purpose of this project was to explore the capabilities of A.I.  making art.</p>
+  <p style="color:GhostWhite; font-size:30px; text-align: center;">The purpose of this project was to work with blender to create objects and environments in 3D.</p>
   </div>
 </div>
 <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Doughnut</h1>

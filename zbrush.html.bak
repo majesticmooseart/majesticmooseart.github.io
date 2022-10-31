@@ -30,6 +30,9 @@ img {
     <li class="nav-item active">
       <a class="nav-link" href="index.html">HOME</a>
     </li>
+	<li class="nav-item">
+      <a class="nav-link" href="github.html">Net Art</a>
+	  
     <li class="nav-item">
       <a class="nav-link" href="glitch.html">Glitch</a>
     </li>
@@ -38,14 +41,12 @@ img {
     </li>
 	
 	<li class="nav-item">
-      <a class="nav-link" href="photoshop.html">Photography</a>
+      <a class="nav-link" href="photography.html">Photography</a>
     </li>
 	
 	<li class="nav-item">
       <a class="nav-link" href="meme.html">Meme Mashup</a>
     </li>
-	<li class="nav-item">
-      <a class="nav-link" href="github.html">Net Art</a>
 	  
 	  <li class="nav-item">
       <a class="nav-link" href="zbrush.html">Z-Brush</a>
@@ -60,25 +61,25 @@ img {
     </li>
 	
 	<li class="nav-item">
-      <a class="nav-link" href="final.html">Final</a>
+      <a class="nav-link" href="final.html">Design</a>
     </li>
   </ul>
 </nav>
 <div class="jumbotron jumbotron-fluid text-center" style="background-color: #000000!important;">
   <div class="container">
  <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0em 0em 0em 0">ZBRUSH</h1>
-  <p style="color:GhostWhite; font-size:30px; text-align: center;">The purpose of this project was to explore our capapilities with ZBrush.</p>
+  <p style="color:GhostWhite; font-size:30px; text-align: center;">These three 3D sculpts were all made in ZBrush and are the result of trying to create huminod busts. The last two busts where an attempt and pushing the form while still keeping a huminoid figure.   .</p>
   </div>
 </div>
-<h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Human Male </h1>
+<h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Human </h1>
  <img src="guy.png" class="mx-auto d-block" style="width:50%;"> 
 
  
- <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Human Female</h1>
+ <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Demoness</h1>
  <img src="girl.png" class="mx-auto d-block" style="width:50%;"> 
 
  
- <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Alien</h1>
+ <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Extraterrestrialh1>
  <img src="tusk.jpg" class="mx-auto d-block" style="width:50%;"> 
 
 </body>

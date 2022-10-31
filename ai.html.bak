@@ -30,13 +30,16 @@ img {
    <li class="nav-item active">
       <a class="nav-link" href="index.html">HOME</a>
     </li>
+	<li class="nav-item">
+      <a class="nav-link" href="github.html">Net Art</a>
+	  
     <li class="nav-item">
       <a class="nav-link" href="glitch.html">Glitch</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="photoshop.html">Illustrator/Photoshop</a>
 	  </li>
-	<<li class="nav-item">
+	<li class="nav-item">
       <a class="nav-link" href="photography.html">Photography</a>
     </li>
 	
@@ -44,8 +47,6 @@ img {
 	<li class="nav-item">
       <a class="nav-link" href="meme.html">Meme Mashup</a>
     </li>
-	<li class="nav-item">
-      <a class="nav-link" href="github.html">Net Art</a>
 	  
 	  <li class="nav-item">
       <a class="nav-link" href="zbrush.html">Z-Brush</a>
@@ -60,7 +61,7 @@ img {
     </li>
 	
 	<li class="nav-item">
-      <a class="nav-link" href="final.html">Final</a>
+      <a class="nav-link" href="final.html">Design</a>
     </li>
 	
   </ul>

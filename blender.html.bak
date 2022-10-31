@@ -30,6 +30,9 @@ img {
     <li class="nav-item active">
       <a class="nav-link" href="index.html">HOME</a>
     </li>
+	<li class="nav-item">
+      <a class="nav-link" href="github.html">Net Art</a>
+	  
     <li class="nav-item">
       <a class="nav-link" href="glitch.html">Glitch</a>
     </li>
@@ -38,14 +41,12 @@ img {
     </li>
 	
 	<li class="nav-item">
-      <a class="nav-link" href="photoshop.html">Photography</a>
+      <a class="nav-link" href="photography.html">Photography</a>
     </li>
 	
 	<li class="nav-item">
       <a class="nav-link" href="meme.html">Meme Mashup</a>
     </li>
-	<li class="nav-item">
-      <a class="nav-link" href="github.html">Net Art</a>
 	  
 	  <li class="nav-item">
       <a class="nav-link" href="zbrush.html">Z-Brush</a>
@@ -60,7 +61,7 @@ img {
     </li>
 	
 	<li class="nav-item">
-      <a class="nav-link" href="final.html">Final</a>
+      <a class="nav-link" href="final.html">Design</a>
     </li>
   </ul>
 </nav>
@@ -70,13 +71,13 @@ img {
   <p style="color:GhostWhite; font-size:30px; text-align: center;">The purpose of this project was to work with blender to create objects and environments in 3D.</p>
   </div>
 </div>
-<h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Doughnut</h1>
+<h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Tasty Treat</h1>
   <img src="nut.jpg" alt="Stars" class="mx-auto d-block" style="width:50%;" >
  
- <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> ReModel</h1>
+ <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Evil Below</h1>
  <img src="demon.png" class="mx-auto d-block" style="width:50%;"> 
 
- <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Environment</h1>
+ <h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Astral Gate</h1>
 <img src="gate.png" alt="Stars" class="mx-auto d-block" style="width:50%;">
 
 

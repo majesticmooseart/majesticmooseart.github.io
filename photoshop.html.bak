@@ -19,6 +19,9 @@
       <li class="nav-item active">
       <a class="nav-link" href="index.html">HOME</a>
     </li>
+	<li class="nav-item">
+      <a class="nav-link" href="github.html">Net Art</a>
+	  
     <li class="nav-item">
       <a class="nav-link" href="glitch.html">Glitch</a>
     </li>
@@ -26,14 +29,12 @@
       <a class="nav-link" href="photoshop.html">Illustrator/Photoshop</a>
     </li>
 	<li class="nav-item">
-      <a class="nav-link" href="photoshop.html">Photography</a>
+      <a class="nav-link" href="photography.html">Photography</a>
     </li>
 	
 	<li class="nav-item">
       <a class="nav-link" href="meme.html">Meme Mashup</a>
     </li>
-	<li class="nav-item">
-      <a class="nav-link" href="github.html">Net Art</a>
 	  
 	  <li class="nav-item">
       <a class="nav-link" href="zbrush.html">Z-Brush</a>
@@ -56,14 +57,16 @@
 <div class="jumbotron jumbotron-fluid text-center" style="background-color: #000000!important;">
   <div class="container">
     <h1 style="color:GhostWhite;font-size:70px; text-align: center;">PHOTOSHOP/ILLUSTRATOR</h1>      
-    <p style="color:GhostWhite; font-size:30px; text-align: center;">This project revolved around working only with Adobe Photoshop/Illustrator to create an interesting image and a logo.</p>
+    <p style="color:GhostWhite; font-size:30px; text-align: center;">This is collection of digital pieces which were done in Adobe Photoshop and Illustrator. The first is a representation of the good, even in bad situations. The second piece is a logo made to represent myself and my work. The last piece is a representaion of the city of Monteray has and the experiences that it has to offer. </p>
   </div>
 </div>
 
-<h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Holy Rain</h1>
+<h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Silver Lining</h1>
 <img class="mx-auto d-block" src="photoshop.jpg" class="mx-auto d-block" style="width:1100px;height:800px; padding: 0 0em 2em 0" >
-<h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Paintbrush Logo</h1>
+<h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> Brush </h1>
 <img class="mx-auto d-block" src="illustrator.png" class="mx-auto d-block" style="width:900px;height:900px; padding: 0 0em 2em 0" > 
+<h1 style="color:GhostWhite; font-size:70px; text-align: center; padding: 0 0em 0.5em 0;"> City of Waves </h1>
+<img class="mx-auto d-block" src="monterey.png" class="mx-auto d-block" style="width:1100px;height:800px; padding: 0 0em 2em 0" >
  
 </body>
 </html> 
